@@ -1,0 +1,2 @@
+we followed 57 athletes during competitions for a period of 6 days before the competition and 2 days during the competition (March 12, 2022 to March 20, 2022), recording emotional events, emotional intensity, perceived control, emotion regulation strategies, and shooting performance at 14 different time points, including each morning and afternoon before the competition and at the end of each competition day. 
+The DATA1 file is a recording format for vertical data; The Data introduction file is an introduction to important variables.
