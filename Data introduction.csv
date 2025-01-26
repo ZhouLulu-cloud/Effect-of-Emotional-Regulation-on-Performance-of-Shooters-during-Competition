@@ -1,0 +1,11 @@
+ID,Participant number,
+time,Tracking point in time,
+Level,Athlete class,A higher number indicates a higher level
+Emotion,Shooter's emotions about tracking events,
+D,Emotional intensity,
+ConEmo,Controllability of emotion,
+CY,engagement strategies,
+TL,disengagement strategies,
+M,Daily Average score,
+G, Daily Average good ten ring ratio,
+S-AC,How each policy is used on a daily basis,
